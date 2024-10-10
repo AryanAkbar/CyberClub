@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Aryan Akbar's Tech Services</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <header>
+        <nav class="navbar">
+            <div class="logo">CyberSec Pro Group</div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero-section">
+        <div class="hero-text">
+            <h1>Welcome to Aryan Akbar's Cyber Security Services</h1>
+            <p>Professional Web Penetration Testing & Cyber Security Solutions</p>
+            <a href="#services" class="cta-button">Our Services</a>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services" class="services-section">
+        <h2>Our Services</h2>
+        <div class="service-cards">
+            <div class="service-card">
+                <h3>Penetration Testing</h3>
+                <p>Comprehensive penetration testing services to secure your applications.</p>
+            </div>
+            <div class="service-card">
+                <h3>Vulnerability Assessment</h3>
+                <p>Identify and mitigate security vulnerabilities in your systems.</p>
+            </div>
+            <div class="service-card">
+                <h3>Consulting Services</h3>
+                <p>Expert consulting on cybersecurity strategies and solutions.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="about-section">
+        <h2>About Us</h2>
+        <p>At CyberSec Pro Group, we specialize in delivering cutting-edge cybersecurity services with a focus on ethical hacking, vulnerability assessments, and compliance checks.</p>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact-section">
+        <h2>Contact Us</h2>
+        <p>For inquiries, email us at <a href="mailto:aryanakbar51@gmail.com">aryanakbar51@gmail.com</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 CyberSec Pro Group. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
